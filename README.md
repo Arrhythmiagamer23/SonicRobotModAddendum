@@ -11,7 +11,7 @@ You can access the settings via the mod page or via the game's pause menu.
 
 Use **High Graphics** for best visual results!
 
-##Just as you know:
+Just as you know:
 You Don't need the original Sonic Robot mod to get the fangame characters, you can get this mod.
 
 The option for the Sonic Cube and Sonic Ball are enabled automatically when loaded for the first time, these options can be turned off anytime.
