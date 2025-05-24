@@ -67,6 +67,8 @@
 				"shadow", 
 				"classicshadow", 
 				"classicshadowslide",
+			        "fallenstar",
+				"tunnel",
 				"unleashedjava"
 			]
     	},
@@ -263,13 +265,13 @@
 				"runners-jump"]
     	}
     },
-	"id": "saritahhh.sonicrobotmod",
-	"name": "Sonic Robot",
-	"version": "v1.1.3",
-	"developer": "Saritahhh",
+	"id": "roadhogstudios.sonicrobotmodaddendum",
+	"name": "Sonic Robot Addendum",
+	"version": "v1.0.0",
+	"developer": "RoadHogStudios",
 	"links": {
 		"source": "https://github.com/DeepRsnanceX/SonicRobotMod"
 	},
 	"tags": ["gameplay", "offline"],
-	"description": "Mod that turns the robot gamemode into Sonic!"
+	"description": "Mod that turns the robot gamemode into Sonic! Now With New Skins!"
 }
