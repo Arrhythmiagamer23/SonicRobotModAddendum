@@ -1,4 +1,4 @@
-# Sonic Robot Mod
+# Sonic Robot Mod Addendum
 
 Mod that replaces the robot gamemode (globally, in any level) with a working sprite animation of ***Sonic The Hedgehog***! As well as adding **Sonic Sound Effects** that play on certain in-game events, and are massively customizable!
 
@@ -28,6 +28,7 @@ Use **High Graphics** for best visual results!
 - ***Cylent-Nite, AsuharaMoon, Nova-Nebulas & Khalifax10:*** Shadow sprites.
 - ***Cylent-Nite:*** Classic Shadow sprites.
 - ***Hortinus:*** Modern Sonic sprites.
+- ***RoadHogStudios*** Fallen Star Sonic and Tunnel the Mole Sprites.
 
 ## Known issues
 
