@@ -17,8 +17,7 @@ You Don't need the original Sonic Robot mod to get the fangame characters, you c
 The option for the Sonic Cube and Sonic Ball are enabled automatically when loaded for the first time, these options can be turned off anytime.
 
 New Skins:
-Tunnel The Mole (From Sonic Galactic)
-Sonic (Sonic and The Fallen Star)
+Tunnel The Mole (From Sonic Galactic) & Sonic (Sonic and The Fallen Star)
 More Will be Added Soon! Stay Tuned!
 
 ## Credits
