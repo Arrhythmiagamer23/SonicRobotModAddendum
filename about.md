@@ -37,7 +37,7 @@ More Will be Added Soon! Stay Tuned!
 - ***Cylent-Nite, AsuharaMoon, Nova-Nebulas & Khalifax10:*** Shadow sprites.
 - ***Cylent-Nite:*** Classic Shadow sprites.
 - ***Hortinus:*** Modern Sonic sprites.
-- ***RoadHogStudios*** Tunnel The Mole and Sonic And the Fallen Star Sprites.
+- ***RoadHogStudios:*** Tunnel The Mole and Sonic And the Fallen Star Sprites.
 
 ## Known issues
 
