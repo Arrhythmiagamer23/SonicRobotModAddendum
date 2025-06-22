@@ -67,7 +67,9 @@
 				"shadow", 
 				"classicshadow", 
 				"classicshadowslide",
-				"unleashedjava"
+				"unleashedjava",
+			        "fallenstar",
+                                "tunnel"
 			]
     	},
     	"sfx-config-title": {
@@ -235,13 +237,13 @@
 			"name": "Sonic Ball",
 			"description": "Enables the Sonic Ball feature, which will show your currently selected character's rolling sprite in the ball gamemode!",
 			"enable-if": "enable-sonicmod",
-			"default": false
+			"default": true
 		},
 		"sonic-cube": {
 			"type": "bool",
 			"name": "Sonic Cube",
 			"enable-if": "enable-sonicmod",
-			"default": false,
+			"default": true,
 			"description": "Enables the Sonic Cube feature, which will also show Sonic in the cube gamemode. \n\n <cr>Although mostly functional, might cause some issues if enabled (mainly with player rotations on some very specific situations), aside from being overall confusing, since there won't be any noticeable difference between cube and Robot.</c> \n\n <cs>Use at your own risk!</c>"
 		},
 		"cubejump-sfx": {
@@ -263,12 +265,12 @@
 				"runners-jump"]
     	}
     },
-	"id": "saritahhh.sonicrobotmod",
-	"name": "Sonic Robot",
-	"version": "v1.1.3",
-	"developer": "Saritahhh",
+	"id": "roadhogstudios.sonicrobotmodaddendum",
+	"name": "Sonic Robot Addendum",
+	"version": "v1.0.0",
+	"developer": "RoadHogStudios & Saritahhh",
 	"links": {
-		"source": "https://github.com/DeepRsnanceX/SonicRobotMod"
+		"source": "https://github.com/Arrhythmiagamer23/SonicRobotModAddendum"
 	},
 	"tags": ["gameplay", "offline"],
 	"description": "Mod that turns the robot gamemode into Sonic!"
