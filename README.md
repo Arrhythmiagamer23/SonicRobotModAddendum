@@ -1,4 +1,4 @@
-# Sonic Robot Mod
+# Sonic Robot Mod Addendum
 
 Mod that replaces the robot gamemode (globally, in any level) with a working sprite animation of ***Sonic The Hedgehog***! As well as adding **Sonic Sound Effects** that play on certain in-game events, and are massively customizable! Now with new skins!
 
