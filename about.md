@@ -1,6 +1,6 @@
-# <cj>Sonic Robot Mod</c>
+# <cj>Sonic Robot Mod Addendum</c>
 
-Mod that replaces the robot gamemode (globally, in any level) with a working sprite animation of <cl>Sonic The Hedgehog</c>! As well as adding <cy>Sonic Sound Effects</c> that play on certain in-game events, and are massively customizable!
+Mod that replaces the robot gamemode (globally, in any level) with a working sprite animation of <cl>Sonic The Hedgehog</c>! As well as adding <cy>Sonic Sound Effects</c> that play on certain in-game events, and are massively customizable! (Now With New Skins)
 
 The mod's settings contain a selection of a bunch of different sprites from a lot of games, like Sonic 1, 2, 3, Mania, even some from fangames! As well as containing an extensive selection of Sound Effects that you can choose from for certain game events, ranging all the way from <cj>Classic Games</c> to the <cb>Modern Era</c> Games! Wanna make them play globally or only disable some of them? Can do!
 
@@ -27,6 +27,8 @@ You can access the settings via the <cy>mod page</c> or via the game's <cp>pause
 - ***Cylent-Nite, AsuharaMoon, Nova-Nebulas & Khalifax10:*** Shadow sprites.
 - ***Cylent-Nite:*** Classic Shadow sprites.
 - ***Hortinus:*** Modern Sonic sprites.
+- ***Stardrop:*** Fallen Star Sonic Sprites.
+- ***StarTeam:*** Tunnel The Mole Sprites.
 
 ## Known issues
 
