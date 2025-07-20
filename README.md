@@ -28,7 +28,7 @@ Use **High Graphics** for best visual results!
 - ***Cylent-Nite, AsuharaMoon, Nova-Nebulas & Khalifax10:*** Shadow sprites.
 - ***Cylent-Nite:*** Classic Shadow sprites.
 - ***Hortinus:*** Modern Sonic sprites.
-- ***RoadHogStudios (Me):*** Fallen Star Sonic and Tunnel The Mole Sprites
+- ***Starteam:*** Fallen Star Sonic, Tunnel The Mole & Galactic Sonic Sprites
 
 ## Known issues
 
