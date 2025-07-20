@@ -28,7 +28,7 @@ You can access the settings via the <cy>mod page</c> or via the game's <cp>pause
 - ***Cylent-Nite:*** Classic Shadow sprites.
 - ***Hortinus:*** Modern Sonic sprites.
 - ***Stardrop:*** Fallen Star Sonic Sprites.
-- ***StarTeam:*** Tunnel The Mole Sprites.
+- ***StarTeam:*** Tunnel The Mole & Galactic Sonic Sprites.
 
 ## Known issues
 
