@@ -115,7 +115,7 @@ class $modify(PlayerObject) {
                     fields->m_maxFrames = 8;
                     fields->m_isUsingExtendedFrames = true;
                 } else {
-                    if (chosenGameSprite == "shadow") {
+                    if (chosenGameSprite == "shadow" || chosenGameSprite == "galactic") {
                         fields->m_maxFrames = 12;
                         fields->m_isUsingExtendedFrames = true;
                         fields->m_isShadow = true; // la creatura ... ha llegado
@@ -192,7 +192,7 @@ class $modify(PlayerObject) {
         if(isModEnabled){
 
             if (dynamicFrames) {
-                if (chosenGameSprite == "mania" || chosenGameSprite == "advance2" || chosenGameSprite == "supermania" || chosenGameSprite == "sonic2hd" || chosenGameSprite == "sonic3maniafied" || chosenGameSprite == "sonic1maniafied" || chosenGameSprite == "classicshadowslide" || chosenGameSprite == "modernsonic" || chosenGameSprite == "maniaknuckles" || chosenGameSprite == "mighty" || chosenGameSprite == "ray" || chosenGameSprite == "metal" || chosenGameSprite == "fallenstar" || chosenGameSprite == "tunnel") {
+                if (chosenGameSprite == "mania" || chosenGameSprite == "advance2" || chosenGameSprite == "supermania" || chosenGameSprite == "sonic2hd" || chosenGameSprite == "sonic3maniafied" || chosenGameSprite == "sonic1maniafied" || chosenGameSprite == "classicshadowslide" || chosenGameSprite == "modernsonic" || chosenGameSprite == "maniaknuckles" || chosenGameSprite == "mighty" || chosenGameSprite == "ray" || chosenGameSprite == "metal" || chosenGameSprite == "fallenstar" || chosenGameSprite == "tunnel" || chosenGameSprite == "galactic") {
                     fields->m_maxFrames = 8;
                     fields->m_isUsingExtendedFrames = true;
                 } else {
