@@ -1,15 +1,6 @@
-#include "../MoreIcons.hpp"
-#include "../api/MoreIconsAPI.hpp"
 #include "../classes/misc/ButtonHooker.hpp"
-#include "../classes/popup/MoreIconsPopup.hpp"
-#include "../classes/popup/info/MoreInfoPopup.hpp"
-#include <Geode/binding/BoomScrollLayer.hpp>
 #include <Geode/binding/GameManager.hpp>
 #include <Geode/binding/GJItemIcon.hpp>
-#include <Geode/binding/GJSpiderSprite.hpp>
-#include <Geode/binding/ListButtonBar.hpp>
-#include <Geode/binding/SimplePlayer.hpp>
-#include <Geode/modify/GJGarageLayer.hpp>
 #include <Geode/ui/BasedButtonSprite.hpp>
 
 using namespace geode::prelude;
